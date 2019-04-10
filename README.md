@@ -6,4 +6,4 @@
 - github : https://github.com/lazypic/findingcat
 - local : ~/project/findingcat
 - mail : findingcat@lazypic.org
-- Google Calendar : findingcat
+- Google Calendar : findingcat (link slackchannel)
