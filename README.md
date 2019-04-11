@@ -7,4 +7,4 @@
     - link Slack : `/github subscribe lazypic/findingcat`
 - local : ~/project/findingcat
 - mail : findingcat@lazypic.org
-- Google Calendar : findingcat <-> link Slack Channel
+- Google Calendar : findingcat <-> link Slack Channel.
